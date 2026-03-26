@@ -1,3 +1,37 @@
+
+## 📸 Gallery
+
+Below are the visual highlights of the **Inbizsys Supplier Management System**.
+
+### 1. Main Dashboard
+Comprehensive overview of all registered suppliers with search and sorting capabilities.
+![Dashboard Overview](public/images/Screenshot%20(1).png)
+
+### 2. Search & Filtering
+Real-time filtering logic allowing users to find suppliers by Name, Email, or Phone instantly.
+![Search Functionality](public/images/Screenshot%20(2).png)
+
+### 3. A4 Print Preview
+Dedicated print-optimized view with structured layouts for industrial reporting.
+![A4 Print Layout](public/images/Screenshot%20(3).png)
+
+### 4. Supplier Registration
+A clean, "Industrial Excellence" styled form for adding new supplier records with validation.
+![Add Supplier Form](public/images/Screenshot%20(4).png)
+
+### 5. Supplier Profile/Details
+Detailed view of individual supplier information including business addresses.
+![Supplier Details](public/images/Screenshot%20(5).png)
+
+### 6. Data Sorting & Ordering
+Advanced sorting options to organize data by newest records or alphabetical order.
+![Sorting Options](public/images/Screenshot%20(6).png)
+
+### 7. Actions & Management
+Edit and Delete workflows with confirmation prompts to ensure data integrity.
+![Action Menu](public/images/Screenshot%20(7).png)
+
+
 🚀 Features
 
     Full CRUD Operations: Create, Read, Update, and Delete supplier records with ease.
